@@ -1,2 +1,13 @@
 *.class
 *.log
+
+.idea/
+client/target
+project/target
+server/target
+shared/js
+shared/jvm
+shared/.js
+shared/.jvm
+target/
+
